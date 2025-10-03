@@ -3,17 +3,17 @@ const JourneySection = () => {
     {
       title: "Finance Focused",
       description: "Our team bridges the gap between finance and tech, driving our commitment to results.",
-      image: "/lovable-uploads/829efb0e-d3ef-44df-b375-e2f710dfb0bc.png"
+      image: "/altan-uploads/829efb0e-d3ef-44df-b375-e2f710dfb0bc.png"
     },
     {
       title: "AI Innovation", 
       description: "We built our leadership team to expertly combine deep finance knowledge with advanced AI.",
-      image: "/lovable-uploads/f4b94bd5-9414-4b09-b564-c52434a0c77b.png"
+      image: "/altan-uploads/f4b94bd5-9414-4b09-b564-c52434a0c77b.png"
     },
     {
       title: "Client Empowerment",
       description: "Dedicated to helping firms achieve deal flow goals through efficient technology solutions.",
-      image: "/lovable-uploads/8c0a0f76-8c4f-4512-8dd6-f59bd453c8fc.png"
+      image: "/altan-uploads/8c0a0f76-8c4f-4512-8dd6-f59bd453c8fc.png"
     }
   ];
 

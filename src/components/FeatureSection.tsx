@@ -36,7 +36,7 @@ const FeatureSection = () => {
                 <div className="relative w-full aspect-square overflow-hidden rounded-[30px]">
                   {/* Background Image */}
                   <img 
-                    src="/lovable-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
+                    src="/altan-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
                     alt="Dashboard preview"
                     className="w-full h-full object-cover"
                   />
@@ -44,7 +44,7 @@ const FeatureSection = () => {
                   {/* Overlay Card */}
                   <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[80%] h-[80%] backdrop-blur-sm rounded-[21px] border border-hero-secondary-border shadow-lg p-[50px]" style={{backgroundColor: 'rgba(11, 11, 12, 0.77)'}}>
                     <img 
-                      src="/lovable-uploads/acbf981c-beb3-4647-8552-42e3c549de20.png" 
+                      src="/altan-uploads/acbf981c-beb3-4647-8552-42e3c549de20.png" 
                       alt="Dashboard overlay"
                       className="w-full h-full object-contain"
                     />
@@ -80,7 +80,7 @@ const FeatureSection = () => {
             <div className="relative w-full aspect-square lg:h-[577px] lg:aspect-auto overflow-hidden rounded-[30px]">
               {/* Background Image */}
               <img 
-                src="/lovable-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
+                src="/altan-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
                 alt="Dashboard preview"
                 className="w-full h-full object-cover"
               />
@@ -88,7 +88,7 @@ const FeatureSection = () => {
               {/* Overlay Card */}
               <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[80%] h-[80%] lg:w-[496px] lg:h-[465px] backdrop-blur-sm rounded-[21px] border border-hero-secondary-border shadow-lg p-[50px]" style={{backgroundColor: 'rgba(11, 11, 12, 0.77)'}}>
                 <img 
-                  src="/lovable-uploads/acbf981c-beb3-4647-8552-42e3c549de20.png" 
+                  src="/altan-uploads/acbf981c-beb3-4647-8552-42e3c549de20.png" 
                   alt="Dashboard overlay"
                   className="w-full h-full object-contain"
                 />

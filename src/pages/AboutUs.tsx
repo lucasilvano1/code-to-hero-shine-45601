@@ -95,7 +95,7 @@ const AboutUs = () => {
             <div className="flex-1 max-w-2xl">
               <div className="relative w-full aspect-square lg:h-[577px] lg:aspect-auto overflow-hidden rounded-[30px]">
                 <img 
-                  src="/lovable-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
+                  src="/altan-uploads/f85acb58-198d-4595-ba4f-4de5cbdaeeb5.png" 
                   alt="Our team at work"
                   className="w-full h-full object-cover"
                 />

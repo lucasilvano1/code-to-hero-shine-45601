@@ -26,7 +26,7 @@ const Navbar = () => {
           <div className="flex items-center gap-2">
             <Link to="/">
               <img 
-                src="/lovable-uploads/25b3039d-5f98-460a-9606-1510946f155d.png" 
+                src="/altan-uploads/25b3039d-5f98-460a-9606-1510946f155d.png" 
                 alt="Logo" 
                 className="h-8 w-auto brightness-0 invert"
               />

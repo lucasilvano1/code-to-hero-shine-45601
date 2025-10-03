@@ -8,7 +8,7 @@ const TestimonialSection = () => {
       company: "TechFlow Inc.",
       content: "This platform has revolutionized how we approach innovation. The AI-powered insights have helped us make decisions faster and more accurately than ever before.",
       rating: 5,
-      image: "/lovable-uploads/f205f4a0-427d-4991-8617-497b883351fe.png"
+      image: "/altan-uploads/f205f4a0-427d-4991-8617-497b883351fe.png"
     },
     {
       name: "Michael Chen",
@@ -16,7 +16,7 @@ const TestimonialSection = () => {
       company: "DataVise",
       content: "The automation capabilities saved us countless hours. Our team can now focus on strategic initiatives rather than repetitive tasks.",
       rating: 5,
-      image: "/lovable-uploads/829efb0e-d3ef-44df-b375-e2f710dfb0bc.png"
+      image: "/altan-uploads/829efb0e-d3ef-44df-b375-e2f710dfb0bc.png"
     },
     {
       name: "Emily Rodriguez",
@@ -24,7 +24,7 @@ const TestimonialSection = () => {
       company: "InnovateLab",
       content: "Implementation was seamless and the results were immediate. Our productivity increased by 40% in the first month alone.",
       rating: 5,
-      image: "/lovable-uploads/f4b94bd5-9414-4b09-b564-c52434a0c77b.png"
+      image: "/altan-uploads/f4b94bd5-9414-4b09-b564-c52434a0c77b.png"
     }
   ];
 
